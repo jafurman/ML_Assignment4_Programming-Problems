@@ -1,3 +1,11 @@
+# -------------------------------------------------------------------------
+# AUTHOR: Joshua Furman
+# FILENAME: clustering.py
+# SPECIFICATION: uses the clutering alrgorithm using k-means to find best k value
+# FOR: CS 4210- Assignment #5
+# TIME SPENT: 1 hr
+# -----------------------------------------------------------*/
+
 import numpy as np
 import pandas as pd
 from sklearn.cluster import KMeans
